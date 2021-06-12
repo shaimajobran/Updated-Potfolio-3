@@ -8,6 +8,11 @@ body {
     overflow-x:hidden;
     scroll-behavior: smooth;
 }
+p{
+    font-family: 'poppins',sans-serif;
+    color: rgb(51, 138, 51);
+   
+}
 #loading {
     width: 100vw;
     height: 100vh;
@@ -88,15 +93,21 @@ header table {
     text-align:right;
 }
 #navigation a {
-    color:inherit;
+    color:rgb(42, 148, 42);
     text-decoration:none;
     padding:5px 10px;
     border-bottom:2px solid transparent;
     margin-left:4vw;
     transition:0.4s ease-in-out;
+   
 }
 #navigation a:hover{
     border-bottom:2px solid #fff;
+    background-color:cadetblue;
+    color: #A5CFC9;
+    padding: 0%;
+    border-radius: 5px;
+  
 }
 #top_part {
     width:100%;
@@ -143,7 +154,7 @@ header table {
     box-shadow:0px 10px 30px rgba(18, 218, 84, 0.8);
 }
 .btn_one {
-    font-size:18px;
+    font-size:20px;
     font-family: 'Poppins', sans-serif;
     color:rgb(69, 172, 94);
     background:#fff;
@@ -154,6 +165,7 @@ header table {
     font-weight:bold;
     margin:2vh 0px;
     transition:0.4s ease-in-out;
+    
 }
 .btn_one:hover {
     box-shadow:0px 10px 30px rgba(45, 150, 68, 0.8);
@@ -186,7 +198,7 @@ header table {
     transition:0.4s ease-in-out;
 }
 #photos img {
-    width:100%;
+    width:80%;
     height:auto;
     margin:4.5% 0px;
     transition:0.4s ease-in-out;
@@ -214,12 +226,8 @@ header table {
     border-bottom:4px solid rgb(34, 151, 40);
     width:10%;
 }
-#contact table {
-    width:100%;
-}
-#contact table tr td {
-    width:50%;
-}
+
+
 #inner_div table{
     width:100%;
 }
@@ -229,50 +237,12 @@ header table {
 #inner_table tr td{
     padding:10px 20px !important;
 }
-#contact form {
-    width:100%;
+ul{
+    padding-left: 10px;
 }
-#contact form input {
-    width:96%;
-    margin:20px 1%;
-    background:transparent;
-    border:0px;
-    border-bottom:3px solid rgba(25, 143, 50, 0.5);
-    padding:8px 10px;
-    font-family: 'Poppins', sans-serif;
-    font-size:18px;
-    transition:0.4s ease-in-out;
-    color:#000;
-    font-weight:bold;
-}
-#contact form textarea {
-    width:96%;
-    margin:20px 1%;
-    padding:8px 10px;
-    border:0px;
-    border-bottom:3px solid rgba(24, 158, 35, 0.5);
-    padding:8px 10px;
-    font-family: 'Poppins', sans-serif;
-    font-size:18px;
-    background:transparent;
-    resize:none;
-    transition:0.4s ease-in-out;
-    color:#000;
-    font-weight:bold;
-}
-#contact form input:focus {
-    outline:none;
-    border-bottom:3px solid rgb(22, 148, 70);
-}
-#contact form textarea:focus {
-    outline:none;
-    border-bottom:3px solid rgb(26, 117, 30);
-}
-#address {
-    position:relative;
-    top:-25px;
-    left:30px;
-}
+
+
+
 #footer {
     width:100%;
     padding:10vh 0px;
