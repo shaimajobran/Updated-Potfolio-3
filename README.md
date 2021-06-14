@@ -16,7 +16,7 @@ This an updated portfolio page and other materials to build toward being employe
 
 * Updated LinkedIn profile
 
-##
+## 
 
 # screenshots
 ![screenshot](images/12.jpg)
@@ -30,6 +30,8 @@ This an updated portfolio page and other materials to build toward being employe
 [Github](https://github.com/shaimajobran)
 
 [Resume](images/Resume.pdf)
+
+[Portfolio](https://shaimajobran.github.io/Updated-Potfolio-3/)
 
 ## Contact
 If you have any questions about the repo, contact me at [shaimajobran](https://github.com/shaimajobran).
