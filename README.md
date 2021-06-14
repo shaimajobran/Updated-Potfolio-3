@@ -1,26 +1,36 @@
-# Portfolio
+## Updated-Portfolio-3
+## License
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 
-The application is an HTML document, styled with CSS. It contains three sections about me.
 
-# About me 
-# portfolio
-# contact info
-```
 
-I can load my portfolio
-I can see my name ,recent photo ,links to sections About me , portfolio , my contact info.
-I can click the navigation link and UI scrolls to the section with titled images .
-I pesented my first applications image and it is larger in size .
-when I click on the images of the applications ,I am taken to the deployed application
-I was able to resize the page and view the site on different screens and devises
-The layout adapts to my viewport
-```
+This an updated portfolio page and other materials to build toward being employer-competitive.
+
+## Requirements
+
+* Updated portfolio featuring at least 3 examples of student work from either deployed projects of homeworks
+
+* Update GitHub profile with pinned repositories featuring at least 3 examples of student work from either deployed projects of homeworks
+
+* Updated resume
+
+* Updated LinkedIn profile
+
+##
+
 # screenshots
-![screenshot]()
-![screenshot]()
-![screenshot]()
-![screenshot]()
+![screenshot](images/12.jpg)
+![screenshot](images/11.jpg)
+![screenshot](images/14.jpg)
 
-# website Link
-[link]()
+
+## Links
+[linkedIn](https://www.linkedin.com/in/shaima-jobran-323472172/)
+
+[Github](https://github.com/shaimajobran)
+
+[Resume](images/Resume.pdf)
+
+## Contact
+If you have any questions about the repo, contact me at [shaimajobran](https://github.com/shaimajobran).
+
